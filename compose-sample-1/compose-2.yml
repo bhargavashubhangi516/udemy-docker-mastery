@@ -17,7 +17,7 @@ services:
   mysql:
     image: mariadb
     environment:
-      MYSQL_ROOT_PASSWORD: examplerootPW
+      MYSQL_ROOT_PASSWORD: examplerootPWC
       MYSQL_DATABASE: wordpress
       MYSQL_USER: example
       MYSQL_PASSWORD: examplePW
